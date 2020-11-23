@@ -1,8 +1,8 @@
  # Projects
  
- List of projects
+ Repository to maintain index of all the projects
 
- # Index
+ # ML Projects
 
  |Year|Link|
  |---|---|
