@@ -12,3 +12,4 @@
 |Year|Link|
 |---|---|
 |2020|<a href="https://github.com/vishwanath103/tic-tac-toe/tree/master">Tic-Tac-Toe</a>|
+|2020|<a href="https://github.com/vishwanath103/Minesweeper">MineSweeper CLI Game</a>|
