@@ -6,7 +6,7 @@
 
  |Year|Link|
  |---|---|
- |2021|<a href="https://github.com/vishwanath103/Learn-fastAPI-ML">Learn ML Deployment using fastAPI</a>|
+ |2021|<a href="https://github.com/vishwanath103/Learn-fastAPI-ML">Learn ML Deployment using FastAPI</a>|
 
 # Python Projects
 |Year|Link|
