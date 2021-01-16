@@ -6,6 +6,7 @@
 
  |Year|Link|
  |---|---|
+ |2021|<a href="https://github.com/vishwanath103/12-Simple-Data-Science-Apps">12 Simple Apps to learn Streamlit Package</a>|
  |2021|<a href="https://github.com/vishwanath103/Learn-fastAPI-ML">Learn ML Deployment using FastAPI</a>|
 
 # Python Projects
