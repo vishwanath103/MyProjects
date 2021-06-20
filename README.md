@@ -4,13 +4,13 @@
 
  # ML Projects
 
- |Year|Link|
- |---|---|
- |2021|<a href="https://github.com/vishwanath103/MIT-DL-Course">MIT Deep Learning Course Execises</a>|
- |2021|<a href="https://github.com/vishwanath103/12-Simple-Data-Science-Apps">12 Simple Apps to learn Streamlit Package</a>|
- |2021|<a href="https://github.com/vishwanath103/Learn-fastAPI-ML">Learn ML Deployment using FastAPI</a>|
- |2021|<a href="https://github.com/vishwanath103/MusicRecommendationSystem">Music Recommonder System</a>|
- |2021|<a href="https://github.com/vishwanath103/HuggingFaceCourse">Hugging Face Course</a>|
+ |Year|Link|Status|
+ |---|---|---|
+ |2021|<a href="https://github.com/vishwanath103/MIT-DL-Course">MIT Deep Learning Course Execises</a>|Done|
+ |2021|<a href="https://github.com/vishwanath103/12-Simple-Data-Science-Apps">12 Simple Apps to learn Streamlit Package</a>|Done|
+ |2021|<a href="https://github.com/vishwanath103/Learn-fastAPI-ML">Learn ML Deployment using FastAPI</a>|Done|
+ |2021|<a href="https://github.com/vishwanath103/MusicRecommendationSystem">Music Recommonder System</a>|Done|
+ |2021|<a href="https://github.com/vishwanath103/HuggingFaceCourse">Hugging Face Course</a>|In Progress|
 
 # Python Projects
 |Year|Link|
